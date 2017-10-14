@@ -1,0 +1,97 @@
+6x Assasin:
+	Assasin
+		Medium humanoid (any race), any alignment
+		Armor Class 12
+		Hit Points 27 (6d8)
+		Speed 30 ft.
+		STR		DEX		CON		INT		WIS		CHA
+		10 (+0)	15 (+2)	10 (+0)	12 (+1)	14 (+2)	16 (+3)
+		Skills Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+		Senses passive Perception 16
+		Languages any two languages
+		Challenge 1 (200 XP)
+		Cunning Action. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
+		Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+		Actions
+			Multiattack. The spy makes two melee attacks.
+			Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+			Hand Crossbow. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+			Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage.
+
+Chiusano Siblings
+	Soterios Chiusano
+		Armor Class 18 (Chain+Sheild)
+		Hit Points 65 (10d8+20)
+		Speed 30 ft.
+		STR		DEX		CON		INT		WIS		CHA
+		16 (+3)	13 (+1)	14 (+2)	10 (+0)	11 (+0)	10 (+0)
+		Skills Athletics +5, Perception +2
+		Senses passive Perception 12
+		Challenge 4 (1100 XP)
+		Actions
+			Multiattack. Soterios makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+			Spear. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+			Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+			Bulwark Defence. As a bonus action, Soterios can at the beginning of his turn go into a stance where he gets +6 to his AC to any one who is completely in his front facing. He my not us multi-attack with this ability.
+			Sheild Slam. Soterios can as a bonus action hit an opponent with his sheild doing 1d4+3 bludgeoning. Then on a strength saving throw with DC 14, the opponent is push 10 ft back and knocked prone if the saving throw is failed.
+			A Sibling's Connection. Channel for one turn, any damage will force a DC 8 CON saving throw otherwise both Chiusano and Vanessa heal 30 Health at to top of the next turn.
+
+	Vanessa Chiusano (Air Elemetal form)
+		Armor Class 15
+		Hit Points 55 (19d8+15)
+		Speed fly 65 ft. (hover in elemental form)
+		STR		DEX		CON		INT		WIS		CHA
+		10 (+0)	18 (+4)	14 (+2)	12 (+1)	10 (+0)	8 (-1)
+		Damage Resistances lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks
+		Damage Immunities poison
+		Condition Immunities exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+		Senses darkvision 60 ft., passive Perception 12
+		Challenge 5 (1,800 XP)
+		Air Form. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+		Actions
+		Multiattack. The elemental makes two slam attacks.
+		Sand Slam. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. 
+		Whirlwind (Recharge 4-6). Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes (2d6 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6+2) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
+		If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+		Sand Storm. 20ft Diameter, lasts 18 seconds. Any creature starting their turn in the sandstorm must make a constitution saving throw of DC 13 or else they are blinded for the turn.
+		Air Wave. Ranged Weapon Attack: range 30 ft., one target. Goes in a straight line for 30 feet, and the first target must make a DEX save ofr DC13 or be thrown 5ft and landing prone and take 1d6+2. If the save is made, the wave keeps going and hits the next target in the line.
+		A Sibling's Connection. Channel for one turn, any damage will force a DC 8 CON saving throw otherwise both Chiusano and Vanessa heal 30 Health at to top of the next turn.
+
+
+Rebels Group, (4x Rebel Infantry, 2x Rebel Mages)
+	Rebel Infantry (2 have Devil's Sight)
+		Armor Class 12
+		Hit Points 27 (6d8)
+		Speed 30 ft.
+		STR		DEX		CON		INT		WIS		CHA
+		10 (+0)	15 (+2)	10 (+0)	12 (+1)	14 (+2)	16 (+3)
+		Skills Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+		Senses passive Perception 16
+		Languages any two languages
+		Challenge 1 (200 XP)
+		Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+		Actions
+			Multiattack. The spy makes two melee attacks.
+			Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+			Hand Crossbow. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+			Dagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 2) piercing damage.
+
+	Rebel Mage
+		Armor Class 12
+		Hit Points 22 (5d8)
+		Speed 30 ft.
+		STR	DEX	CON	INT	WIS	CHA
+		9 (-1)	14 (+2)	11 (+0)	17 (+3)	12 (+1)	11 (+0)
+		Saving Throws Int +5, Wis +3
+		Skills Arcana +5, History +5
+		Senses passive Perception 11
+		Languages Common, Draconic, Dwarvish, Elvish
+		Challenge 1 (200 XP)
+		Spellcasting. The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
+			Cantrips (at will): light, mage hand, shocking grasp, Ray of Frost
+			1st Level (4 slots): charm person, magic missile
+			2nd Level (3 slots): hold person, misty step, Darkness
+
+
+
+
